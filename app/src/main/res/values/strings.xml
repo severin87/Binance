@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Binance</string>
+
+    <string name="bid_ask_text">bid/ask:</string>
+    <string name="symbol">Symbol</string>
+    <string name="price_change">Price change</string>
+    <string name="price_change_percent">Price change percent</string>
+    <string name="bid_ask_price_formatted">%1$s/%2$s</string>
+    <string name="price_change_percent_formatted">%1$s%%</string>
+    <string name="no_internet_connection">No internet connection</string>
+</resources>
